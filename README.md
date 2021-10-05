@@ -23,6 +23,9 @@ python3 TheScrapper.py --url URL -s
 *If you dont like the banner just add "-b".*
 <br>
 
+![immagine](https://user-images.githubusercontent.com/56889513/136005295-71688f39-a643-4954-92b2-38b3a8bccf61.png)
+
+
 ## SocialMedia
 If you want to add more SocialMedia sites just append them to the [`socials.txt`](./socials.txt) file and if you want, you can add them with a [pull request](https://www.lifewire.com/best-products-4781319).
 
