@@ -6,7 +6,7 @@ You can use the found information to gather more information or just find ways t
 
 ```bash
 git clone https://github.com/kal1gh0st/ScarperSocial.git
-cd TheScrapper
+cd ScarperSocial
 pip3 install -r requirements.txt
 ```
 <br>
