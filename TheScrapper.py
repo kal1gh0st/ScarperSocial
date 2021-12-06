@@ -33,6 +33,16 @@ args = parser.parse_args()
 
 if not args.banner:
     print(banner)
+ 
+
+#Essencial variable string
+#url: str = args.url
+#scrap = Scrapper(url=url, crawl=args.crawl)#
+#IR = InfoReader(content=scrap.getText())
+#emails: list = IR.getEmails()
+#numbers = IR.getPhoneNumber()
+#sm: list = IR.getSocials()   
+    
 
 print("*" * 50 + "\n" + f"TheScrapper - Find possible ways to contact a site.\nTarget: {args.url}" + "\n" + "*" * 50 + "\n")
 
